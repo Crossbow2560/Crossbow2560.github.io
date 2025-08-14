@@ -121,10 +121,10 @@ section{
 #desc{
 	font-family: Lato, sans-serif;
 	font-weight: 400;
-	font-size: 25px;
+	font-size: 1.56rem;
 	color: #838383;
 	width: 70%;
-	letter-spacing: 2px;
+	letter-spacing: 0.125rem;
 }
 
 #highlight{
@@ -134,24 +134,21 @@ section{
 
 #about-me-wrapper{
 	width: 100%;
-	padding-left: 30px;
+	padding-left: 1.875rem;
 }
 
 #about-me{
 	display: inline-block;
 	font-family: Roboto, sans-serif;
 	font-weight: bold;
-	font-size: 50px;
-	letter-spacing: 1px;
+	font-size: 3.125rem;
+	letter-spacing: 0.06rem;
 }
 
 
 .inner-sidebar{
-	margin: 0px;
-	margin-top: 0px;
 	display: flex;
 	flex-direction: column;
-
 }
 
 #sidebar-name{
@@ -159,7 +156,7 @@ section{
 	font-size: 2.5rem;
 	font-family: Roboto , sans-serif;
 	text-align: left;
-	padding-bottom: 120px;
+	padding-bottom: 7.5rem;
 }
 
 
