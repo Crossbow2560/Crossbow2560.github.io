@@ -93,16 +93,16 @@ section{
 #about{
 	display: flex;
 	flex-wrap: wrap;
-	padding-top: 100px;
-	height: 550px;
+	padding-top: 6.25rem;
+	height: 34.375rem;
 }
 
 #title-name{
 	display: inline-block;
 	font-family: Roboto, sans-serif;
 	font-weight: bold;
-	font-size: 80px;
-	letter-spacing: 2px;
+	font-size: 5rem;
+	letter-spacing: 0.125rem;
 }
 
 #desc-wrapper{
@@ -113,8 +113,9 @@ section{
 #title-wrapper{
 	overflow: hidden;
 	width: 100%;
-	margin-left: 30px;
-	margin-bottom: 20px;
+	/*margin-left: 30px;
+	margin-bottom: 20px;*/
+	margin: 0rem 0rem 1.25rem 1.875rem;
 }
 
 #desc{
