@@ -16,6 +16,7 @@
 
 html{
 	scroll-behavior: smooth;
+	font-size: calc(2px + 1vw);
 }
 
 body{
@@ -153,6 +154,7 @@ section{
 
 #sidebar-name{
 	font-weight: bolder;
+	display: flex;
 	font-size: 2.5rem;
 	font-family: Roboto , sans-serif;
 	text-align: left;
